@@ -73,6 +73,9 @@ _to do_
 ### Teil 2
 _to do_
 
+### Teil von Janina
+_to do_
+
 ## Branches
 
 alle lokalen Branches anzeigen: `git branch`
